@@ -1,0 +1,72 @@
+* {
+  font-family: "Trebuchet MS";
+}
+h1 {
+  text-transform: uppercase;
+  color:  rgb(247, 123, 110);
+}
+table {
+  border: solid 1px #c9f3f3;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 70%;
+  margin: 10px auto 10px auto;
+}
+table thead th {
+  background-color: #aed6d6;
+  border: solid 1px #ddeeee;
+  color: #336b6b;
+  padding: 10px;
+  text-align: left;
+  text-shadow: 1px 1px 1px #fff;
+  text-decoration: none;
+}
+table tbody td {
+  border: solid 1px #ddeeee;
+  color: #333;
+  padding: 10px;
+  text-shadow: 1px 1px 1px #fff;
+}
+a {
+  background-color: rgb(247, 123, 110);
+  color: #fff;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+button {
+  background-color: rgb(247, 123, 110);
+  color: #fff;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 12px;
+  border: 0px;
+  margin-top: 20px;
+}
+label {
+  margin-top: 10px;
+  float: left;
+  text-align: left;
+  width: 100%;
+}
+input {
+  padding: 6px;
+  width: 100%;
+  box-sizing: border-box;
+  background: #f8f8f8;
+  border: 2px solid #ccc;
+  outline-color:  rgb(247, 123, 110);
+}
+div {
+  width: 100%;
+  height: auto;
+}
+.base {
+  width: 400px;
+  height: auto;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #ededed;
+}
